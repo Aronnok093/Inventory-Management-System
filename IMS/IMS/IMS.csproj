@@ -125,6 +125,7 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\Equipment.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -164,6 +165,15 @@
     <Content Include="Scripts\jquery.validate.min.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
+    <Content Include="Scripts\Jqury\images\ui-icons_444444_256x240.png" />
+    <Content Include="Scripts\Jqury\images\ui-icons_555555_256x240.png" />
+    <Content Include="Scripts\Jqury\images\ui-icons_777620_256x240.png" />
+    <Content Include="Scripts\Jqury\images\ui-icons_777777_256x240.png" />
+    <Content Include="Scripts\Jqury\images\ui-icons_cc0000_256x240.png" />
+    <Content Include="Scripts\Jqury\images\ui-icons_ffffff_256x240.png" />
+    <Content Include="Scripts\Jqury\jquery-ui.js" />
+    <Content Include="Scripts\Jqury\jquery-ui.min.css" />
+    <Content Include="Scripts\Jqury\jquery-ui.theme.min.css" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
@@ -178,10 +188,10 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\DashBoard\Index.cshtml" />
     <Content Include="Views\Auth\Login.cshtml" />
+    <Content Include="Views\DashBoard\_PartialView.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap.rtl.min.css.map" />

@@ -7,31 +7,39 @@
       "RelativeMoniker": "D:0:0:{04B727DD-DA56-402B-A69F-30FEE9177398}|IMS\\IMS.csproj|solutionrelative:ims\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04B727DD-DA56-402B-A69F-30FEE9177398}|IMS\\IMS.csproj|c:\\users\\kfard\\onedrive\\desktop\\cooking\\inventory-management-system\\ims\\ims\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04B727DD-DA56-402B-A69F-30FEE9177398}|IMS\\IMS.csproj|C:\\Users\\kfard\\OneDrive\\Desktop\\Cooking\\Inventory-Management-System\\IMS\\ims\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04B727DD-DA56-402B-A69F-30FEE9177398}|IMS\\IMS.csproj|solutionrelative:ims\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04B727DD-DA56-402B-A69F-30FEE9177398}|IMS\\IMS.csproj|c:\\users\\kfard\\onedrive\\desktop\\cooking\\inventory-management-system\\ims\\ims\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{04B727DD-DA56-402B-A69F-30FEE9177398}|IMS\\IMS.csproj|C:\\Users\\kfard\\OneDrive\\Desktop\\Cooking\\Inventory-Management-System\\IMS\\ims\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{04B727DD-DA56-402B-A69F-30FEE9177398}|IMS\\IMS.csproj|solutionrelative:ims\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B727DD-DA56-402B-A69F-30FEE9177398}|IMS\\IMS.csproj|C:\\Users\\kfard\\OneDrive\\Desktop\\Cooking\\Inventory-Management-System\\IMS\\ims\\views\\dashboard\\_partialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04B727DD-DA56-402B-A69F-30FEE9177398}|IMS\\IMS.csproj|solutionrelative:ims\\views\\dashboard\\_partialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B727DD-DA56-402B-A69F-30FEE9177398}|IMS\\IMS.csproj|C:\\Users\\kfard\\OneDrive\\Desktop\\Cooking\\Inventory-Management-System\\IMS\\ims\\models\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B727DD-DA56-402B-A69F-30FEE9177398}|IMS\\IMS.csproj|solutionrelative:ims\\models\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{04B727DD-DA56-402B-A69F-30FEE9177398}|IMS\\IMS.csproj|C:\\Users\\kfard\\OneDrive\\Desktop\\Cooking\\Inventory-Management-System\\IMS\\ims\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04B727DD-DA56-402B-A69F-30FEE9177398}|IMS\\IMS.csproj|solutionrelative:ims\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04B727DD-DA56-402B-A69F-30FEE9177398}|IMS\\IMS.csproj|c:\\users\\kfard\\onedrive\\desktop\\cooking\\inventory-management-system\\ims\\ims\\content\\login-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{04B727DD-DA56-402B-A69F-30FEE9177398}|IMS\\IMS.csproj|C:\\Users\\kfard\\OneDrive\\Desktop\\Cooking\\Inventory-Management-System\\IMS\\ims\\content\\login-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{04B727DD-DA56-402B-A69F-30FEE9177398}|IMS\\IMS.csproj|solutionrelative:ims\\content\\login-stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04B727DD-DA56-402B-A69F-30FEE9177398}|IMS\\IMS.csproj|c:\\users\\kfard\\onedrive\\desktop\\cooking\\inventory-management-system\\ims\\ims\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{04B727DD-DA56-402B-A69F-30FEE9177398}|IMS\\IMS.csproj|C:\\Users\\kfard\\OneDrive\\Desktop\\Cooking\\Inventory-Management-System\\IMS\\ims\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{04B727DD-DA56-402B-A69F-30FEE9177398}|IMS\\IMS.csproj|solutionrelative:ims\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04B727DD-DA56-402B-A69F-30FEE9177398}|IMS\\IMS.csproj|c:\\users\\kfard\\onedrive\\desktop\\cooking\\inventory-management-system\\ims\\ims\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04B727DD-DA56-402B-A69F-30FEE9177398}|IMS\\IMS.csproj|C:\\Users\\kfard\\OneDrive\\Desktop\\Cooking\\Inventory-Management-System\\IMS\\ims\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04B727DD-DA56-402B-A69F-30FEE9177398}|IMS\\IMS.csproj|solutionrelative:ims\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04B727DD-DA56-402B-A69F-30FEE9177398}|IMS\\IMS.csproj|c:\\users\\kfard\\onedrive\\desktop\\cooking\\inventory-management-system\\ims\\ims\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{04B727DD-DA56-402B-A69F-30FEE9177398}|IMS\\IMS.csproj|C:\\Users\\kfard\\OneDrive\\Desktop\\Cooking\\Inventory-Management-System\\IMS\\ims\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{04B727DD-DA56-402B-A69F-30FEE9177398}|IMS\\IMS.csproj|solutionrelative:ims\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -42,11 +50,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kfard\\OneDrive\\Desktop\\Cooking\\Inventory-Management-System\\IMS\\IMS\\Views\\DashBoard\\Index.cshtml",
+              "RelativeDocumentMoniker": "IMS\\Views\\DashBoard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kfard\\OneDrive\\Desktop\\Cooking\\Inventory-Management-System\\IMS\\IMS\\Views\\DashBoard\\Index.cshtml",
+              "RelativeToolTip": "IMS\\Views\\DashBoard\\Index.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAwPRUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T12:29:58.323Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_PartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\kfard\\OneDrive\\Desktop\\Cooking\\Inventory-Management-System\\IMS\\IMS\\Views\\DashBoard\\_PartialView.cshtml",
+              "RelativeDocumentMoniker": "IMS\\Views\\DashBoard\\_PartialView.cshtml",
+              "ToolTip": "C:\\Users\\kfard\\OneDrive\\Desktop\\Cooking\\Inventory-Management-System\\IMS\\IMS\\Views\\DashBoard\\_PartialView.cshtml",
+              "RelativeToolTip": "IMS\\Views\\DashBoard\\_PartialView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T12:10:15.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "C:\\Users\\kfard\\OneDrive\\Desktop\\Cooking\\Inventory-Management-System\\IMS\\IMS\\Models\\Equipment.cs",
+              "RelativeDocumentMoniker": "IMS\\Models\\Equipment.cs",
+              "ToolTip": "C:\\Users\\kfard\\OneDrive\\Desktop\\Cooking\\Inventory-Management-System\\IMS\\IMS\\Models\\Equipment.cs",
+              "RelativeToolTip": "IMS\\Models\\Equipment.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAABzPRsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T09:59:26.498Z"
             },
             {
               "$type": "Document",
@@ -56,22 +103,9 @@
               "RelativeDocumentMoniker": "IMS\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\kfard\\OneDrive\\Desktop\\Cooking\\Inventory-Management-System\\IMS\\IMS\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "IMS\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAEAAACg//////8gwAwAAAA3AAAA",
+              "ViewState": "AQIAADUAAAAAMjMzMzMLwBIAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-11T12:57:27.207Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\kfard\\OneDrive\\Desktop\\Cooking\\Inventory-Management-System\\IMS\\IMS\\Views\\DashBoard\\Index.cshtml",
-              "RelativeDocumentMoniker": "IMS\\Views\\DashBoard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\kfard\\OneDrive\\Desktop\\Cooking\\Inventory-Management-System\\IMS\\IMS\\Views\\DashBoard\\Index.cshtml",
-              "RelativeToolTip": "IMS\\Views\\DashBoard\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-11T12:29:58.323Z",
               "EditorCaption": ""
             },
             {
@@ -82,40 +116,38 @@
               "RelativeDocumentMoniker": "IMS\\Controllers\\DashBoardController.cs",
               "ToolTip": "C:\\Users\\kfard\\OneDrive\\Desktop\\Cooking\\Inventory-Management-System\\IMS\\IMS\\Controllers\\DashBoardController.cs",
               "RelativeToolTip": "IMS\\Controllers\\DashBoardController.cs",
-              "ViewState": "AQIAAAYAAAD4zMzMzMwnwA0AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAComZmZmZkfwAoAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T12:28:44.018Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "login-stylesheet.css",
               "DocumentMoniker": "C:\\Users\\kfard\\OneDrive\\Desktop\\Cooking\\Inventory-Management-System\\IMS\\IMS\\Content\\login-stylesheet.css",
               "RelativeDocumentMoniker": "IMS\\Content\\login-stylesheet.css",
               "ToolTip": "C:\\Users\\kfard\\OneDrive\\Desktop\\Cooking\\Inventory-Management-System\\IMS\\IMS\\Content\\login-stylesheet.css",
               "RelativeToolTip": "IMS\\Content\\login-stylesheet.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAAAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAwPTgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-11T12:23:53.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T12:23:53.414Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\kfard\\OneDrive\\Desktop\\Cooking\\Inventory-Management-System\\IMS\\IMS\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "IMS\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\kfard\\OneDrive\\Desktop\\Cooking\\Inventory-Management-System\\IMS\\IMS\\Controllers\\AuthController.cs",
               "RelativeToolTip": "IMS\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAB4AAACA//////8XwCcAAAAqAAAA",
+              "ViewState": "AQIAABUAAABALzMzMzMRwAsAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T12:16:19.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T12:16:19.303Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\kfard\\OneDrive\\Desktop\\Cooking\\Inventory-Management-System\\IMS\\IMS\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "IMS\\Views\\_ViewStart.cshtml",
@@ -123,12 +155,11 @@
               "RelativeToolTip": "IMS\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-11T12:57:19.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T12:57:19.465Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\kfard\\OneDrive\\Desktop\\Cooking\\Inventory-Management-System\\IMS\\IMS\\Views\\Auth\\Login.cshtml",
               "RelativeDocumentMoniker": "IMS\\Views\\Auth\\Login.cshtml",
@@ -136,12 +167,11 @@
               "RelativeToolTip": "IMS\\Views\\Auth\\Login.cshtml",
               "ViewState": "AQIAAAcAAABgy8zMzMwnwBgAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-11T12:19:11.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T12:19:11.479Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "RouteConfig.cs",
               "DocumentMoniker": "C:\\Users\\kfard\\OneDrive\\Desktop\\Cooking\\Inventory-Management-System\\IMS\\IMS\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "IMS\\App_Start\\RouteConfig.cs",
@@ -149,8 +179,7 @@
               "RelativeToolTip": "IMS\\App_Start\\RouteConfig.cs",
               "ViewState": "AQIAAAcAAABAMTMzMzMrwBIAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T12:38:58.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T12:38:58.636Z"
             }
           ]
         }

@@ -1,5 +1,133 @@
-﻿@{
-    ViewBag.Title = "Home Page";
+﻿@using IMS.Models
+@{
+    ViewBag.Title = "Dashboard";
 }
 
-<h1>This is dash board [ @Session["username"] ]</h1>
+<script>
+    function dialogBox() {
+        $("#dialog").dialog();
+    }
+
+    // Bind the dialogBox function to the button click event
+    $(document).ready(function () {
+        $("#openDialog").click(function () {
+            dialogBox();
+        });
+    });
+</script>
+<div class="container-fluid">
+    <div class="row">
+        <!-- Sidebar -->
+        <nav id="sidebar" class="col-md-3 col-lg-2 d-md-block bg-light sidebar">
+            <div class="sidebar-sticky">
+                <ul class="nav flex-column">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="#">
+                           
+                            Dashboard <span class="sr-only">(current)</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">
+                          
+                            Orders
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">
+                          
+                            Products
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">
+                          
+                            Customers
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">
+                           
+                            Reports
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">
+                          
+                            Integrations
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+
+        <!-- Main content -->
+        <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4">
+
+            <!-- Example charts and tables -->
+            @{
+                List<Equipment> equipment = Equipment.ListEquipment();
+            }
+
+            <div class="table-responsive" style="max-width: 45%; max-height: 350px; overflow-y: auto; float: left; border:dotted;padding:5px; border-radius:5px;">
+                <strong>Equipment: </strong>
+                <button class="btn btn-primary" id="openDialog" style="float:right;">+</button>
+                <table class="table table-striped table-sm ">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Name</th>
+                            <th>Count</th>
+                            <th>Entry Date</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (Equipment items in equipment)
+                        {
+                            <tr>
+                                <td>@items.Id</td>
+                                <td>@items.Name</td>
+                                <td>@items.Count</td>
+                                <td>@items.EntryDate</td>
+                            </tr>
+
+                        }
+
+                        <!-- More rows -->
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="table-responsive" style="max-width: 45%; max-height: 350px; overflow-y: auto; float: right; border:dotted;padding:5px; border-radius:5px; margin:auto;">
+                <strong>Equipment: </strong>
+                <button class="btn btn-primary" id="openDialog2" style="float:right;">+</button>
+                <table class="table table-striped table-sm ">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Name</th>
+                            <th>Count</th>
+                            <th>Entry Date</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (Equipment items in equipment)
+                        {
+                            <tr>
+                                <td>@items.Id</td>
+                                <td>@items.Name</td>
+                                <td>@items.Count</td>
+                                <td>@items.EntryDate</td>
+                            </tr>
+
+                        }
+
+                        <!-- More rows -->
+                    </tbody>
+                </table>
+            </div>
+            @Html.Partial("_PartialView")
+        </main>
+    </div>
+</div>
+
